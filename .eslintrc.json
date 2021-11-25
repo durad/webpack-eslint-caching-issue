@@ -1,0 +1,12 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "plugins": [
+  ],
+  "extends": [
+  ],
+  "rules": {
+    "no-var": "warn"
+  }
+}
